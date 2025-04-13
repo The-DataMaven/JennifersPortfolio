@@ -16,8 +16,8 @@ I’m a data analyst passionate about using SQL, Python, and visualization tools
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-Marketing Campaign Analysis
-- [Code:](./projects/project_2)
+Marketing Campaign Performance Analysis
+- Code: [Marketing Campaign Performance Analysis](https://github.com/The-DataMaven/PortfolioProjects/blob/main/Marketing%20Campaign%20Performance%20Analysis.sql)
 
 **Description:** The Marketing Campaign Performance Dataset provides valuable insights into the effectiveness of various marketing campaigns. This dataset captures the performance metrics, target audience, duration, channels used, and other essential factors that contribute to the success of marketing initiatives. With 200000 unique rows of data spanning two years, this dataset offers a comprehensive view of campaign performance across diverse companies and customer segments.
 
